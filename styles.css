@@ -68,3 +68,8 @@ body {
     align-items: center;
     margin-top: 20px;
 }
+
+.texto-previsao {
+    color: #ffffff;
+    margin-left: 20px;
+}
