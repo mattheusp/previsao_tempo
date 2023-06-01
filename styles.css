@@ -36,10 +36,9 @@ body {
     border: none;
     outline: none;
     padding: 10px;
-    border: 50px;
+    border-radius: 50px;
     background-color:#7c7c7c2b;
     cursor: pointer;
-    
 }
 
 .img-busca {
