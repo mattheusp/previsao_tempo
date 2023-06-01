@@ -24,4 +24,10 @@ body {
 .input-cidade {
     border: none;
     outline: none;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color:#7c7c7c2b;
+    color: #fff;
+
 }
