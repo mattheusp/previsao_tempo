@@ -21,3 +21,7 @@ body {
     padding: 20px;
 }
 
+.input-cidade {
+    border: none;
+    outline: none;
+}
