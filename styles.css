@@ -59,5 +59,10 @@ body {
 
 .temp {
     font-size: 20px;
-    color: #fff;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.caixa-menor {
+    display: flex;
 }
