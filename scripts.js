@@ -4,6 +4,7 @@ const key = "d6c6d4a33ba581c47e0c4eafd3a40842"
 
 function colocarDadosNaTela(dados){
     console.log(dados)
+    // document.querySelector(".cidade").innerHTML = 
 }
 
 async function buscarCidade(cidade) {
