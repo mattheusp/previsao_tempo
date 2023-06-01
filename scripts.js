@@ -6,6 +6,7 @@ function colocarDadosNaTela(dados){
     console.log(dados)
     document.querySelector(".cidade").innerHTML = "Tempo em " + dados.name
     document.querySelector(".temp").innerHTML = dados.main.temp
+    document.querySelector(".texto-previsao").innerHTML = dados.wheather[0].description
     
 }
 
