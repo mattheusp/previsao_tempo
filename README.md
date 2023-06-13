@@ -2,7 +2,7 @@
 
 Este é um repositório que contém uma aplicação web para previsão do tempo. A aplicação utiliza HTML, CSS e JavaScript para exibir informações meteorológicas atualizadas em tempo real.
 
-## Funcionalidades
+## Funcionalidades 🖥️
 
 A aplicação de previsão do tempo inclui as seguintes funcionalidades:
 
@@ -19,13 +19,13 @@ A aplicação foi desenvolvida utilizando as seguintes tecnologias:
 - CSS: Utilizado para estilizar os elementos e criar uma interface atraente.
 - JavaScript: Utilizado para obter dados da API de previsão do tempo e manipular o conteúdo dinamicamente.
 
-## Pré-requisitos
+## Pré-requisitos 🔴
 
 Antes de executar a aplicação, é necessário ter os seguintes pré-requisitos instalados:
 
 - Navegador da web atualizado, como Google Chrome ou Mozilla Firefox.
 
-## Executando a Aplicação
+## Executando a Aplicação 🌐
 
 Para executar a aplicação, siga as etapas abaixo:
 
@@ -35,22 +35,26 @@ Para executar a aplicação, siga as etapas abaixo:
 
 A aplicação será carregada e você poderá começar a utilizar a previsão do tempo.
 
-## Personalização
-
+## Personalização ⌨️
+ 
 Se desejar personalizar a aplicação, você pode seguir estas sugestões:
 
 - Modifique o estilo CSS para adequar a aparência da aplicação aos seus gostos pessoais.
 - Adicione mais funcionalidades, como previsão de vários dias ou exibição de imagens relacionadas ao clima.
 
-## Contribuição
+## Contribuição 🤝
 
 Se você quiser contribuir com este projeto, sinta-se à vontade para enviar pull requests. Ficaremos felizes em revisar e incorporar suas contribuições.
 
-## Autor
+## Contato ✉️
 
-[Seu nome aqui] - [Endereço de e-mail]
+- E-mail: mattheusp382@gmail.com
+- LinkedIn: [Mattheus-Pereira](https://www.linkedin.com/in/mattheuspereira/)
+- Instagram - https://www.instagram.com/mattheusp_dev/
+- Portfólio: [seu-website.com](https://www.seu-website.com)
 
-## Licença
 
-Este projeto está licenciado sob a [Licença XYZ] - veja o arquivo [LICENSE.md] para obter mais detalhes.
+## Licença ⚖️
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
 
